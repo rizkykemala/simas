@@ -18,3 +18,4 @@ Route::resource('uangkas', 'Uangkas');
 Route::resource('inventaris', 'Inventaris');
 Route::resource('imam', 'Imam');
 Route::resource('kegiatan', 'Kegiatan');
+Route::resource('coba', 'Coba');
